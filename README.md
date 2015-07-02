@@ -4,8 +4,8 @@
 
 
 ## Setup
-
-`npm update` to get the one dependecy (require)
+`cd src/`
+`npm install require` to get the one dependecy (require)
 
 Then create your Alexa app through the [Amazon Developer Portal](https://developer.amazon.com). You will need the AppId from a screen there pasted into the src/index.js file before you package your code into a zip and upload it to Lamda. You will need to set up the [IFTTT maker channel](https://ifttt.com/maker) also. Copy the secret key from there into the index.js file as well.
 
