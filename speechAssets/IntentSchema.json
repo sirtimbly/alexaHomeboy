@@ -1,0 +1,12 @@
+{
+  "intents": [
+    {
+      "intent": "SecurityCameraIntent",
+      "slots": []
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
